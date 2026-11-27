@@ -1,0 +1,251 @@
+{
+ "fams": [
+  "disks",
+  "edgeTouch",
+  "nested",
+  "coincident",
+  "multi",
+  "hole",
+  "ellipse",
+  "offsetCopy"
+ ],
+ "N": 1500,
+ "SEED0": 1,
+ "secs": 724.149,
+ "timeMasterMs": 47556.2466199998,
+ "timeBranchMs": 54920.45327000027,
+ "stats": {
+  "disks": {
+   "cases": 1500,
+   "ops": 7500,
+   "mWrong": [
+    1583,
+    1583,
+    1583
+   ],
+   "bWrong": [
+    385,
+    385,
+    385
+   ],
+   "fixed": [
+    1198,
+    1198,
+    1198
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 311,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "edgeTouch": {
+   "cases": 1500,
+   "ops": 7500,
+   "mWrong": [
+    805,
+    805,
+    838
+   ],
+   "bWrong": [
+    785,
+    785,
+    818
+   ],
+   "fixed": [
+    20,
+    20,
+    20
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 5,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "nested": {
+   "cases": 1500,
+   "ops": 7500,
+   "mWrong": [
+    2605,
+    2620,
+    2679
+   ],
+   "bWrong": [
+    1645,
+    1658,
+    1701
+   ],
+   "fixed": [
+    960,
+    962,
+    978
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 228,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "coincident": {
+   "cases": 1500,
+   "ops": 7500,
+   "mWrong": [
+    418,
+    418,
+    430
+   ],
+   "bWrong": [
+    418,
+    418,
+    430
+   ],
+   "fixed": [
+    0,
+    0,
+    0
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 0,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "multi": {
+   "cases": 1500,
+   "ops": 7500,
+   "mWrong": [
+    2969,
+    2978,
+    2983
+   ],
+   "bWrong": [
+    925,
+    934,
+    939
+   ],
+   "fixed": [
+    2044,
+    2044,
+    2044
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 490,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "hole": {
+   "cases": 1500,
+   "ops": 7500,
+   "mWrong": [
+    938,
+    943,
+    946
+   ],
+   "bWrong": [
+    315,
+    319,
+    322
+   ],
+   "fixed": [
+    623,
+    624,
+    624
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 173,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "ellipse": {
+   "cases": 1500,
+   "ops": 7500,
+   "mWrong": [
+    1166,
+    1173,
+    1173
+   ],
+   "bWrong": [
+    298,
+    298,
+    298
+   ],
+   "fixed": [
+    868,
+    875,
+    875
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 243,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "offsetCopy": {
+   "cases": 1500,
+   "ops": 7500,
+   "mWrong": [
+    1397,
+    1469,
+    1566
+   ],
+   "bWrong": [
+    1372,
+    1444,
+    1543
+   ],
+   "fixed": [
+    25,
+    25,
+    23
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 6,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  }
+ }
+}

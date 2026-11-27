@@ -1,0 +1,281 @@
+{
+ "fams": [
+  "disks",
+  "edgeTouch",
+  "nested",
+  "multi",
+  "hole",
+  "ellipse",
+  "corner",
+  "sharedArc",
+  "ellCorner"
+ ],
+ "N": 600,
+ "SEED0": 20001,
+ "secs": 214.068,
+ "timeMasterMs": 13153.31895900011,
+ "timeBranchMs": 14923.88761999997,
+ "stats": {
+  "disks": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    688,
+    693,
+    749
+   ],
+   "bWrong": [
+    162,
+    167,
+    226
+   ],
+   "fixed": [
+    526,
+    526,
+    523
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 138,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "edgeTouch": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    308,
+    310,
+    358
+   ],
+   "bWrong": [
+    78,
+    80,
+    128
+   ],
+   "fixed": [
+    230,
+    230,
+    230
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 60,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "nested": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    1171,
+    1193,
+    1341
+   ],
+   "bWrong": [
+    400,
+    420,
+    608
+   ],
+   "fixed": [
+    771,
+    773,
+    734
+   ],
+   "broken": [
+    0,
+    0,
+    1
+   ],
+   "caseFixed": 177,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "multi": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    1332,
+    1335,
+    1357
+   ],
+   "bWrong": [
+    205,
+    206,
+    237
+   ],
+   "fixed": [
+    1127,
+    1129,
+    1120
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 266,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "hole": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    324,
+    339,
+    421
+   ],
+   "bWrong": [
+    89,
+    104,
+    186
+   ],
+   "fixed": [
+    235,
+    235,
+    235
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 68,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "ellipse": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    565,
+    570,
+    585
+   ],
+   "bWrong": [
+    142,
+    143,
+    162
+   ],
+   "fixed": [
+    423,
+    427,
+    423
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 124,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "corner": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    432,
+    451,
+    610
+   ],
+   "bWrong": [
+    211,
+    232,
+    397
+   ],
+   "fixed": [
+    221,
+    219,
+    213
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 55,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "sharedArc": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    1271,
+    1280,
+    1363
+   ],
+   "bWrong": [
+    716,
+    728,
+    851
+   ],
+   "fixed": [
+    555,
+    552,
+    512
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 137,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "ellCorner": {
+   "cases": 600,
+   "ops": 3000,
+   "mWrong": [
+    775,
+    780,
+    837
+   ],
+   "bWrong": [
+    164,
+    168,
+    245
+   ],
+   "fixed": [
+    611,
+    612,
+    594
+   ],
+   "broken": [
+    0,
+    0,
+    2
+   ],
+   "caseFixed": 150,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  }
+ }
+}

@@ -1,0 +1,11 @@
+arcslicer          ops: base    2126 fix    1777 fixed     349 broken      0 | cases: base    229 fix    193 fixed     36 broken     0
+chain              ops: base     201 fix     115 fixed     104 broken     18 | cases: base    105 fix     64 fixed     41 broken     0
+coarc              ops: base    1226 fix    1180 fixed      46 broken      0 | cases: base    152 fix    147 fixed      5 broken     0
+farshift           ops: base    2342 fix    1388 fixed     954 broken      0 | cases: base    255 fix    150 fixed    105 broken     0
+meet               ops: base    6347 fix    5931 fixed     416 broken      0 | cases: base    581 fix    542 fixed     39 broken     0
+multi              ops: base    4130 fix    3837 fixed     293 broken      0 | cases: base    357 fix    333 fixed     24 broken     0
+scale              ops: base    1648 fix    1066 fixed     582 broken      0 | cases: base    176 fix    116 fixed     60 broken     0
+shortedge          ops: base    1888 fix    1106 fixed     782 broken      0 | cases: base    205 fix    122 fixed     83 broken     0
+slicerout          ops: base    2187 fix    1602 fixed     585 broken      0 | cases: base    233 fix    170 fixed     63 broken     0
+twin               ops: base    1225 fix    1121 fixed     104 broken      0 | cases: base    129 fix    118 fixed     11 broken     0
+TOTAL broken cases: 0

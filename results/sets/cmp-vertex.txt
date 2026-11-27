@@ -1,0 +1,6 @@
+bez                ops: base    3018 fix    2611 fixed     409 broken      2 | cases: base    407 fix    357 fixed     50 broken     0
+dist               ops: base    2974 fix    2213 fixed     763 broken      2 | cases: base    470 fix    364 fixed    106 broken     0
+ecc                ops: base    3031 fix    1870 fixed    1161 broken      0 | cases: base    435 fix    272 fixed    163 broken     0
+msnap              ops: base    2789 fix    2641 fixed     148 broken      0 | cases: base    328 fix    309 fixed     19 broken     0
+pert               ops: base    3083 fix    2888 fixed     195 broken      0 | cases: base    409 fix    388 fixed     21 broken     0
+TOTAL broken cases: 0

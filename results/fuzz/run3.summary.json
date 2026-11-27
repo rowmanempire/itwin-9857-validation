@@ -1,0 +1,41 @@
+{
+ "fams": [
+  "reuse"
+ ],
+ "N": 2500,
+ "SEED0": 5001,
+ "secs": 127.345,
+ "timeMasterMs": 10662.607913999964,
+ "timeBranchMs": 12158.311874999974,
+ "stats": {
+  "reuse": {
+   "cases": 2500,
+   "ops": 12500,
+   "mWrong": [
+    3198,
+    3344,
+    3436
+   ],
+   "bWrong": [
+    1063,
+    1127,
+    1196
+   ],
+   "fixed": [
+    2135,
+    2217,
+    2240
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 589,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  }
+ }
+}

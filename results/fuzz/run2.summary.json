@@ -1,0 +1,191 @@
+{
+ "fams": [
+  "corner",
+  "sharedArc",
+  "spandrel",
+  "tinyFillet",
+  "ellCorner",
+  "reuse"
+ ],
+ "N": 2500,
+ "SEED0": 1,
+ "secs": 570.601,
+ "timeMasterMs": 34101.94226500004,
+ "timeBranchMs": 40057.19649300034,
+ "stats": {
+  "corner": {
+   "cases": 2500,
+   "ops": 12500,
+   "mWrong": [
+    721,
+    725,
+    730
+   ],
+   "bWrong": [
+    684,
+    688,
+    693
+   ],
+   "fixed": [
+    37,
+    37,
+    37
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 9,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "sharedArc": {
+   "cases": 2500,
+   "ops": 12500,
+   "mWrong": [
+    3464,
+    3467,
+    3469
+   ],
+   "bWrong": [
+    1917,
+    1919,
+    1919
+   ],
+   "fixed": [
+    1547,
+    1548,
+    1550
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 389,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "spandrel": {
+   "cases": 2500,
+   "ops": 12500,
+   "mWrong": [
+    3094,
+    3094,
+    3184
+   ],
+   "bWrong": [
+    3051,
+    3051,
+    3143
+   ],
+   "fixed": [
+    43,
+    43,
+    41
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 11,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "tinyFillet": {
+   "cases": 2500,
+   "ops": 12500,
+   "mWrong": [
+    2041,
+    2051,
+    2100
+   ],
+   "bWrong": [
+    1937,
+    1946,
+    1995
+   ],
+   "fixed": [
+    104,
+    105,
+    105
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 28,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "ellCorner": {
+   "cases": 2500,
+   "ops": 12500,
+   "mWrong": [
+    1845,
+    1853,
+    1859
+   ],
+   "bWrong": [
+    985,
+    988,
+    990
+   ],
+   "fixed": [
+    860,
+    865,
+    869
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 206,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  },
+  "reuse": {
+   "cases": 2500,
+   "ops": 12500,
+   "mWrong": [
+    2727,
+    2895,
+    2966
+   ],
+   "bWrong": [
+    973,
+    1042,
+    1081
+   ],
+   "fixed": [
+    1754,
+    1853,
+    1885
+   ],
+   "broken": [
+    0,
+    0,
+    0
+   ],
+   "caseFixed": 493,
+   "caseBroken": 0,
+   "mErr": 0,
+   "bErr": 0,
+   "oracleErr": 0
+  }
+ }
+}

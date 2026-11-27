@@ -1,0 +1,9 @@
+dshape-ccw         ops: base    9032 fix    6318 fixed    2714 broken      0 | cases: base   1091 fix    754 fixed    337 broken     0
+dshape-cw          ops: base    9111 fix    6371 fixed    2740 broken      0 | cases: base   1097 fix    760 fixed    337 broken     0
+lens-ccw           ops: base    3556 fix    2331 fixed    1225 broken      0 | cases: base    419 fix    292 fixed    127 broken     0
+lens-cw            ops: base    3519 fix    2302 fixed    1217 broken      0 | cases: base    418 fix    291 fixed    127 broken     0
+tanend-ccw         ops: base    3277 fix     879 fixed    2402 broken      4 | cases: base    325 fix     91 fixed    234 broken     0
+tanend-cw          ops: base    3315 fix     912 fixed    2407 broken      4 | cases: base    328 fix     94 fixed    234 broken     0
+tanpoly-ccw        ops: base    3559 fix     129 fixed    3430 broken      0 | cases: base    347 fix     12 fixed    335 broken     0
+tanpoly-cw         ops: base    3534 fix     127 fixed    3407 broken      0 | cases: base    347 fix     12 fixed    335 broken     0
+TOTAL broken cases: 0

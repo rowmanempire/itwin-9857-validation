@@ -1,0 +1,16 @@
+affine             ops: base    3192 fix    1176 fixed    2016 broken      0 | cases: base    345 fix    125 fixed    220 broken     0
+ellipse            ops: base    3879 fix    1159 fixed    2720 broken      0 | cases: base    415 fix    123 fixed    292 broken     0
+loops-affine       ops: base     678 fix     678 fixed       0 broken      0 | cases: base    339 fix    339 fixed      0 broken     0
+loops-ellipse      ops: base     829 fix     829 fixed       0 broken      0 | cases: base    415 fix    415 fixed      0 broken     0
+loops-mixed        ops: base     588 fix     528 fixed      60 broken      0 | cases: base    295 fix    265 fixed     30 broken     0
+loops-radii        ops: base     737 fix     737 fixed       0 broken      0 | cases: base    369 fix    369 fixed      0 broken     0
+loops-smalltol     ops: base     492 fix     492 fixed       0 broken      0 | cases: base    246 fix    246 fixed      0 broken     0
+loops-split        ops: base     606 fix     606 fixed       0 broken      0 | cases: base    303 fix    303 fixed      0 broken     0
+mixed              ops: base    3161 fix    1008 fixed    2153 broken      0 | cases: base    367 fix    116 fixed    251 broken     0
+radii              ops: base    3522 fix     984 fixed    2538 broken      0 | cases: base    378 fix    104 fixed    274 broken     0
+selfop             ops: base    3840 fix    1070 fixed    2770 broken      0 | cases: base    375 fix    104 fixed    271 broken     0
+slicer             ops: base    3854 fix    3345 fixed     509 broken      0 | cases: base    413 fix    358 fixed     55 broken     0
+smalltol           ops: base    2885 fix    1881 fixed    1004 broken      0 | cases: base    312 fix    204 fixed    108 broken     0
+split              ops: base    2839 fix     719 fixed    2120 broken      0 | cases: base    305 fix     75 fixed    230 broken     0
+touch              ops: base    2007 fix    1563 fixed     444 broken      0 | cases: base    358 fix    278 fixed     80 broken     0
+TOTAL broken cases: 0

@@ -1,0 +1,6 @@
+cornerang          ops: base    3560 fix    2847 fixed     713 broken      0 | cases: base    433 fix    336 fixed     97 broken     0
+multi              ops: base     884 fix     872 fixed      23 broken     11 | cases: base    158 fix    152 fixed      7 broken     1
+nested             ops: base     599 fix     415 fixed     184 broken      0 | cases: base    323 fix    231 fixed     92 broken     0
+parity             ops: base    3227 fix    2591 fixed     636 broken      0 | cases: base    382 fix    309 fixed     73 broken     0
+splitunion         ops: base    3562 fix    2769 fixed     795 broken      2 | cases: base    412 fix    319 fixed     93 broken     0
+TOTAL broken cases: 1

@@ -1,0 +1,48 @@
+== issue #9857 (fix)
+input areas 1050.7086286565714 585.2294190872091
+{"simplifyUnion":true,"type":"Loop","area":1635.9380477437808}
+{"simplifyUnion":false,"type":"UnionRegion","area":1635.9380477437812}
+== issue #9857 (master)
+input areas 1050.7086286565714 585.2294190872091
+{"simplifyUnion":true,"type":"undefined","area":null}
+{"simplifyUnion":false,"type":"Loop","area":585.2294189935964}
+== regressions/cusp (operations whose result differs from master, of 12)
+affine-147.json  0
+affine-37.json  0
+affine-42.json  0
+affine-64.json  0
+slicer-107.json  0
+slicer-33.json  0
+slicer-62.json  0
+slicer-70.json  0
+touch-81.json  0
+== regressions/placement (operations whose result differs from master, of 12)
+meet-122.json  0
+meet-42.json  0
+multi-100.json  0
+slicerout-4a.json  0
+slicerout-4b.json  0
+== regressions/corner (master, fix)
+ellfillet-chord-rot141.json  0 of 12 0 of 12 
+ellfillet-chord-rot171.4.json  0 of 12 0 of 12 
+ellfillet-chord-rot23.07.json  0 of 12 0 of 12 
+ellfillet-twofillet-rot141.json  0 of 12 0 of 12 
+ellfillet-twofillet-rot171.4.json  0 of 12 0 of 12 
+ellfillet-twofillet-rot23.07.json  0 of 12 0 of 12 
+multi-140-chain.json  0 of 12 4 of 12 
+multi-140-frozen-branch-step0.json  4 of 12 4 of 12 
+multi-140-frozen-master-step0.json  0 of 12 0 of 12 
+== regressions/vertex (master, fix)
+clean-circle-fillet-cusp.json  0 of 12 0 of 12 
+dist584-circles.json  0 of 12 0 of 12 
+dist584-noE.json  4 of 12 0 of 12 
+dist584-noE2.json  4 of 12 0 of 12 
+dist584-rot295.5.json  0 of 12 0 of 12 
+dist584-rot51.44.json  0 of 12 0 of 12 
+dist584-rot85.02.json  0 of 12 0 of 12 
+dist584-tri-A0.json  2 of 12 0 of 12 
+dist584-tri.json  2 of 12 0 of 12 
+== regressions/loops (RegionOps.constructAllXYRegionLoops, both operand orders: master | fix)
+loops-split-146.json  expected 2327.501: 2327.502 ok, 2327.502 ok | expected 2327.501: 2327.502 ok, 2327.502 ok
+== third arc coincident with the circle, class 8 (regress = configurations broken by the fix)
+{ nCases: 672, regress: 0, fixed: 120, bothBad: 442 }

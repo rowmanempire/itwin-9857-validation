@@ -1,0 +1,5 @@
+dshape             ops: base    8965 fix    6295 fixed    2670 broken      0 | cases: base   1096 fix    766 fixed    330 broken     0
+lens               ops: base    3448 fix    2238 fixed    1210 broken      0 | cases: base    418 fix    292 fixed    126 broken     0
+tanend             ops: base    3426 fix     962 fixed    2465 broken      1 | cases: base    334 fix     98 fixed    236 broken     0
+tanpoly            ops: base    3627 fix     157 fixed    3470 broken      0 | cases: base    354 fix     16 fixed    338 broken     0
+TOTAL broken cases: 0

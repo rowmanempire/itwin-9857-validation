@@ -1,0 +1,4 @@
+out/
+failure-lists/
+node_modules/
+.DS_Store
